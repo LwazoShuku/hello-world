@@ -2,7 +2,7 @@
 
 Hello, World!
 
-Created by Lwazi
+Created by Lwazi Shangase
 
 You can use the [editor on GitHub](https://github.com/LwazoShuku/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
