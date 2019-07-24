@@ -2,9 +2,9 @@
 
 Hello, World!
 
-Created by Lwazi Shangase
+Created by Lwazi Shangase.
 
-Made in 2019
+Made in 2019.
 
 You can use the [editor on GitHub](https://github.com/LwazoShuku/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
