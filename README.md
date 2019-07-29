@@ -2,7 +2,7 @@
 
 Hello, World!
 
-My First GitHub Pages
+My First GitHub Pages Repository
 
 Created by Lwazi Shangase.
 
