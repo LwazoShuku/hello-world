@@ -8,7 +8,7 @@ Created by Lwazi Shangase.
 
 Made in 2019.
 
-Hosted by GitHub
+Hosted by GitHub Pages
 
 Jekyll Theme.
 
