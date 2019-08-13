@@ -30,7 +30,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted.
-- List
+- List.
 - One
 
 1. Numbered
