@@ -31,7 +31,7 @@ Syntax highlighted code block
 
 - Bulleted.
 - List.
-- One
+- One.
 
 1. Numbered
 2. List
