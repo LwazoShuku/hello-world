@@ -33,7 +33,7 @@ Syntax highlighted code block
 - List.
 - One.
 
-1. Numbered
+1. Numbered.
 2. List
 3. Two
 
