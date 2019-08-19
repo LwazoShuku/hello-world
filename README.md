@@ -12,7 +12,7 @@ Hosted by GitHub Pages.
 
 Web Address : https://lwazoshuku.github.io/hello-world/ .
 
-A Jekyll Theme.
+A Standard Jekyll Theme.
 
 You can use the [editor on GitHub](https://github.com/LwazoShuku/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
