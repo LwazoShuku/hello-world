@@ -6,7 +6,7 @@ My First GitHub Pages Repository.
 
 Created by Lwazi Shangase.
 
-Made in 2019.
+Made In 2019.
 
 Hosted by GitHub Pages.
 
