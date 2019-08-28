@@ -10,7 +10,7 @@ Made In 2019.
 
 Hosted by GitHub Pages.
 
-Web Address : https://lwazoshuku.github.io/hello-world/ .
+Web Address - https://lwazoshuku.github.io/hello-world/ .
 
 A Standard Jekyll Theme.
 
