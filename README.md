@@ -8,7 +8,7 @@ Created by Lwazi Shangase.
 
 Made In 2019.
 
-Hosted by GitHub Pages.
+Hosted By GitHub Pages.
 
 Web Address - https://lwazoshuku.github.io/hello-world/ .
 
