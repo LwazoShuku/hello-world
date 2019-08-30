@@ -1,4 +1,4 @@
- ## Welcome to GitHub Pages!
+ ## Welcome To GitHub Pages!
 
 Hello, World!
 
