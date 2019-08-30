@@ -4,7 +4,7 @@ Hello, World!
 
 My First GitHub Pages Repository.
 
-Created by Lwazi Shangase.
+Created By Lwazi Shangase.
 
 Made In 2019.
 
