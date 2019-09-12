@@ -14,7 +14,7 @@ Web Address - https://lwazoshuku.github.io/hello-world/ .
 
 A Standard Jekyll Theme.
 
-You Can Use The [editor on GitHub](https://github.com/LwazoShuku/hello-world/edit/master/README.md) To Maintain And Preview The Content For Your website in Markdown files.
+You Can Use The [editor on GitHub](https://github.com/LwazoShuku/hello-world/edit/master/README.md) To Maintain And Preview The Content For Your Website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
