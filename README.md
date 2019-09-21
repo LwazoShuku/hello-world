@@ -16,7 +16,7 @@ A Standard Jekyll Theme.
 
 You Can Use The [editor on GitHub](https://github.com/LwazoShuku/hello-world/edit/master/README.md) To Maintain And Preview The Content For Your Website In Markdown Files.
 
-Whenever You Commit To This repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever You Commit To This Repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
