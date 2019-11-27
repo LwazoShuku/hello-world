@@ -34,7 +34,7 @@ Syntax Highlighted Code Block.
 - One.
 
 1. - Numbered.
-2. List.
+2. - List.
 3. Two.
 
 **Bold** and _Italic_ and `Code` text
